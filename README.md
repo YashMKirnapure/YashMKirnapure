@@ -55,5 +55,4 @@
 </div>
 
 ###
-  <img alt="github-snake" src="github-snake.svg" />
-###
+  <img alt="github-snake" src="snake.svg" />
